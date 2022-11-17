@@ -14,12 +14,12 @@ Wichtig: Es muss auch die Library `numpy`  installiert werden, da ansonsten eini
 Anleitung für die Installation von `numpy`: https://numpy.org/install/
 
 ## Jupyter Notebooks mit myBinder online ausführen
-Die Jupyter Notebooks können mit myBinder direkt online ausgeführt werden. Folgender Link führt direkt auf den Binder-Build dieser Übung: https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.enterpriselab.ch%2Fjdrexel%2Fbaa_fs22_differential-privacy/HEAD
+Die Jupyter Notebooks können mit myBinder direkt online ausgeführt werden. Folgender Link führt direkt auf den Binder-Build dieser Übung: https://mybinder.org/v2/gh/drexelj/Bachelorarbeit_Differential-Privacy/HEAD
 
 Sollte dieser Link nicht funktionieren, kann wie folgt ein neuer Build erstellt werden:
 1. MyBinder Startseite öffnen: https://mybinder.org/
-2. Den "URL Typ" auf "Git repository" ändern.
-3. Die URL `https://gitlab.enterpriselab.ch/jdrexel/baa_fs22_differential-privacy/` reinkopieren.
+2. Den "URL Typ" auf "GitHub" belassen.
+3. Die URL `https://github.com/drexelj/Bachelorarbeit_Differential-Privacy` reinkopieren.
 4. Auf "launch" klicken.
 5. Warten, bis sich die Arbeitsoberfläche im Browser öffnet. Dies kann einige Minuten dauern.
 6. Nun kann in den Ordner `exercise` gewechselt und die einzelnen Notebooks geöffnet werden.
