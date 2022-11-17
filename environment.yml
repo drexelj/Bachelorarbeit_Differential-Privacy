@@ -1,0 +1,6 @@
+name: baa-jdrexel-2022
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+
